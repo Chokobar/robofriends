@@ -1,4 +1,7 @@
-PURE BASIC REACT WEB APP 
-https://robohash.org/ for robots pic, 
-https://jsonplaceholder.typicode.com/users for users testing,
-https://tachyons.io/ for design and responsive ui
+# PURE BASIC REACT WEB APP 
+getting start with react
+
+## Built With
+* [robohash](https://robohash.org/) - robo pics
+* [json placeholder](https://jsonplaceholder.typicode.com/users) - mock users
+* [tachyons](https://tachyons.io/) - design and responsive ui parts
